@@ -25,9 +25,8 @@ API
 ### `AntiModals.overlay([String] templateName, [Object] options)`
 
 Display given template as a dialog.
-#### available options
-- data : Data for template
-
+###### available options
+- ```data``` : Data for the template
 
 ---
 
